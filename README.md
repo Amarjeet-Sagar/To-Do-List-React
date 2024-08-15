@@ -1,2 +1,2 @@
 Hosted On -
-open https://kajal-ecomm.netlify.app/ to view it in your browser
+open https://amarjeet-sagar.github.io/To-do-List-React/ to view it in your browser
